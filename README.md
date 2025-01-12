@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer with 8+ years of work experience, passionate about computer science and technology, mainly interested in Backend/Full-Stack software development and scalable architectures.
+I'm a Software Engineer with 10+ years of work experience, passionate about computer science and technology, mainly interested in Backend/Full-Stack software development and scalable architectures.
 
 :pencil2: TypeScript, Python, JavaScript, Java, C  
 :computer: NestJS, FastAPI, aiohttp, Flask, Spring Boot  
